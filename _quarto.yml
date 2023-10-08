@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Siberian Huskies"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+    toc: true
+  pdf:
+    documentclass: report
+  docx: default
+  pptx: default
+
+filters:
+   - lightbox
+lightbox: auto
+  
+
+
+
+
+
+ 
+
+
+
