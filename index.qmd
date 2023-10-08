@@ -1,0 +1,62 @@
+---
+title: "Husky Final Website"
+---
+
+---
+title: "Siberian Huskies"
+
+---
+
+
+
+
+
+![An image of a black and white blue-eyed Husky in front of a snowy backdrop](Husky 1.jpeg)
+
+# History
+
+![An image of early sled dogs with their musher, or sled driver](Chukotka Sled Dog.png){width=500}
+
+
+Siberian Huskies have existed since the 1890s. Prior to the 1890s, a progenitor to the modern Siberian Husky existed called the Chukotka Sled Dog. These dogs first bred by indigenous Siberian tribes as working sled dogs. Soon after, they were recruited to participate in sled-dog racing.The modern Husky emerged through the Chukota breeding with the Canadian Eskimo Dog and the Greenland Dog.
+
+### Husky Lineage
+
+```{mermaid}
+flowchart LR
+  A[Chukota] --> B[Canadian Eskimo] 
+  A[Chukota] --> C[Greenland] 
+  B[Canadian Eskimo] --> D[Modern Husky]
+  C[Greenland] -->D[Modern Husky]
+   
+  
+```
+
+
+![An image of a Canadian Eskimo Dog](Canadian Eskimo Dog.jpeg){width=300}          
+
+
+![An image of a Greenland Dog](Greenland-dog-close-up.jpeg){width=300}
+
+
+
+
+## Traits
+Huskies are known for their superior speed and strength. This has made them an obvious choice for athletics. However, they are also valued for their temperament. Huskies are friendly, playful and highly intelligent. In addition, they generally do not display the territorial qualities of many other large dogs. 
+<p> Huskies are known for their thick fur coats, which is why they thrive in cold climates. The color of their fur can be white, black, gray, brown, red or a mixture of these colors. Huskies tend to be larger dogs, with their weight ranging from 40-60lbs
+
+![An image of several Huskies with different types of fur](furcolors.jpeg){width=500} 
+
+### Lifespan and Health
+
+Huskies are expected to live an average of 12-15 years. Huskies are generally considered a healthy breed. However, they are prone to some health complications. Like most other medium to large breeds, huskies are prone to hip dysplasia.
+
+## Owning a Husky
+The experience of owning a Siberian Husky can be very different when compared to owning other breeds. Huskies are unique because they require high levels of physical activity. While it may seem counterintuitive, it may be wise to leave your husky outside for extented periods of time, even during the winter months. This will allow them to get the exercise they require. In addition, be sure to walk your husky regularly. 
+**Note: be sure to adequately contain your Husky. They are master escape artists and will run away if given the opportunity.** 
+<p>
+Despite its generally large size, Huskies do not need a large amount of food. They were originally bred to subsist on a minimal amount of food in order to survive in harsh climates where food was often scarce. If your husky eats noticeably less during the summer months, do not be nervous. Their metabolism slows during the summer, causing a decrease in appetite. 
+
+To learn more about owning a Husky, click [here](https://askvet.app/siberian-husky/#:~:text=Siberian%20huskies%20require%20a%20significant,to%20put%20in%20the%20work.) 
+
+
